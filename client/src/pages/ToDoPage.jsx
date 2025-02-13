@@ -66,7 +66,7 @@ const Todo = () => {
   }, []);
 
   return (
-    <div className="p-4 max-w-md mx-auto bg-white shadow-lg rounded-lg">
+    <div className="p-4 max-w-md mx-auto bg-white shadow-lg rounded-lg h-screen m-1">
       <h1 className="text-xl font-bold mb-4">To-Do List</h1>
       <div className="flex mb-4">
         <input
